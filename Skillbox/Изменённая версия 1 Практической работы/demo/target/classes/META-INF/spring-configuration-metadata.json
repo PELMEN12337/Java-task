@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "contacts.file",
+      "type": "com.example.config.ContactFileProperties",
+      "sourceType": "com.example.config.ContactFileProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "contacts.file.input",
+      "type": "java.lang.String",
+      "sourceType": "com.example.config.ContactFileProperties"
+    },
+    {
+      "name": "contacts.file.output",
+      "type": "java.lang.String",
+      "sourceType": "com.example.config.ContactFileProperties"
+    }
+  ],
+  "hints": []
+}
