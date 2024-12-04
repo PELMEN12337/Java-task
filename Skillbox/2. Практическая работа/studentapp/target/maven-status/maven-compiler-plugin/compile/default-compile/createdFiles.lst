@@ -1,0 +1,7 @@
+com\example\studentapp\StudentappApplication.class
+com\example\studentapp\shell\StudentCommands.class
+com\example\studentapp\StudentController.class
+com\example\studentapp\listener\StudentEventListener.class
+com\example\studentapp\service\StudentService.class
+com\example\studentapp\init\StudentInitializer.class
+com\example\studentapp\model\Student.class
