@@ -1,0 +1,5 @@
+com\example\contactlist\repository\ContactRepositoryImpl.class
+com\example\contactlist\repository\ContactRepository.class
+com\example\contactlist\ContactListApplication.class
+com\example\contactlist\model\Contact.class
+com\example\contactlist\controller\ContactController.class
