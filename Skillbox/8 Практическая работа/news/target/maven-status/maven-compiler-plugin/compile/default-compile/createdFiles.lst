@@ -1,0 +1,7 @@
+com\example\news\service\CustomUserDetailsService.class
+com\example\news\config\SecurityConfig.class
+com\example\news\model\User.class
+com\example\news\service\UserService.class
+com\example\news\controller\UserController.class
+com\example\news\repository\UserRepository.class
+com\example\news\NewsApplication.class
